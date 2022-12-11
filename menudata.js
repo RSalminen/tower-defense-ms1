@@ -71,4 +71,4 @@ var menudata={children:[
 {text:"v",url:"functions_func.html#index_v"},
 {text:"~",url:"functions_func.html#index__7E"}]},
 {text:"Variables",url:"functions_vars.html"},
-{text:"Related Functions",url:"functions_rela.html"}]}]}
+{text:"Related Functions",url:"functions_rela.html"}]}]}]}
